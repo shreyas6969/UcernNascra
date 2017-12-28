@@ -1,0 +1,7 @@
+.sidebar-menu .subMenu {
+  list-style-type: none;
+}
+
+.sidebar-menu .icon-thumbnail > i {
+  font-size: 18px;
+}

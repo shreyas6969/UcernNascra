@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+#root, .App, .App > div {
+  height: 100%;
+}
+
+
+.btn-shadow{
+  box-shadow: 8px 10px 20px #2c3a4626;
+}
+
+.card-shadow{
+  box-shadow: 12px 15px 20px #2c3a4626;
+  border-radius: 0.8em;
+}
+
+.color-teal{
+  background-color: #02b3e4;
+  border:0px;
+}
+
+.color-green{
+  background-color: #02ccba;
+  border:0px;
+}
+
+.color-grey{
+  background-color: #f5f6f7;
+  border:0px;
+}
+
+.icon-white{
+  color:#ecf0f1;
+}
+
+.icon-red{
+  color:#e74c3c;
+}
+
+.icon-green{
+  color:#1abc9c;
+}
+
+.icon-blue{
+  color:#2980b9;
+}
+
+.icon-orange{
+  color:#e67e22;
+}
+
+.icon-yellow{
+  color:#f1c40f;
+}
+
+.icon-purple{
+  color:#8e44ad;
+}
+
+.icon-pink{
+  color:pink;
+}

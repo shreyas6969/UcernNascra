@@ -1,0 +1,24 @@
+.blockpost-body{
+  padding-left:2em;
+  padding-right:2em;
+  padding-bottom:2em;
+
+}
+
+.blockpost-icon-holder{
+  float: right;
+}
+
+.circle{
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
+
+.blockpost-footer{
+  border-radius: 0 0 0.8em 0.8em;
+}
+
+.imageWrapper{
+  width: 50px;
+}
